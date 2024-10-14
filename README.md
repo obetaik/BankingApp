@@ -1,2 +1,2 @@
 # BankingApp
-Course work to demonstrate SOA
+Course work to demonstrate SOA.
